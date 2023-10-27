@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Project
 =======
 =======
@@ -42,3 +43,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 >>>>>>> 9202e41 (Initial commit)
 =======
 >>>>>>> ae1876290b3908e1cdb8930ff7c854b4b170c22e
+=======
+# new-
+>>>>>>> 0bc77dc90dd79e365b0e367505bbe9022181f320
